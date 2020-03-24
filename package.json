@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet bot ",
+  "main": "index.js",
+  "repository": "https://github.com/Anark0sama/Elys-e.git",
+  "author": "<alex.bernigaud@gmail.com>",
+  "license": "MIT"
 }
